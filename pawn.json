@@ -3,5 +3,5 @@
     "repo": "crashloop",
     "entry": "test.pwn",
     "output": "test.amx",
-    "dependencies": ["sampctl/samp-stdlib", "Southclaws/samp-logger"]
+    "dependencies": ["sampctl/samp-stdlib"]
 }
