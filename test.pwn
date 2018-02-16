@@ -2,8 +2,8 @@
 
 main() {
 	print("started");
-	sleep(10000);
-	print("10 seconds, exiting");
+	sleep(1000);
+	print("1 seconds, exiting");
 
-	SendRconCommand("exit");
+	fclose(File:0);
 }
